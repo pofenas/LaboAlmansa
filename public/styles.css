@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    overflow: hidden;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #3498db;
+    font-size: 1.8rem;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 25px;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.step {
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.step.active {
+    display: block;
+}
+
+.options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 30px 0;
+    justify-content: center;
+}
+
+.option-btn {
+    flex: 1 1 calc(50% - 15px);
+    min-width: 250px;
+    padding: 18px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11);
+}
+
+.option-btn:hover {
+    background-color: #2980b9;
+    transform: translateY(-3px);
+    box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1);
+}
+
+.option-btn:active {
+    transform: translateY(-1px);
+}
+
+.back-btn {
+    background-color: #95a5a6;
+}
+
+.back-btn:hover {
+    background-color: #7f8c8d;
+}
+
+.restart-btn {
+    background-color: #2ecc71;
+    font-weight: 600;
+}
+
+.restart-btn:hover {
+    background-color: #27ae60;
+}
+
+.result {
+    background-color: #e8f4fc;
+    border-left: 5px solid #3498db;
+    padding: 25px;
+    margin: 30px 0;
+    border-radius: 8px;
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.result.active {
+    display: block;
+}
+
+.result h3 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+}
+
+.result p {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #2c3e50;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border-left: 4px solid #2ecc71;
+}
+
+strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+@keyframes fadeIn {
+    from { 
+        opacity: 0; 
+        transform: translateY(10px);
+    }
+    to { 
+        opacity: 1; 
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 25px;
+        margin: 10px;
+    }
+    
+    .option-btn {
+        flex: 1 1 100%;
+        min-width: 100%;
+    }
+    
+    h1 {
+        font-size: 1.5rem;
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+    
+    .container {
+        padding: 20px;
+    }
+    
+    .option-btn {
+        padding: 16px;
+        font-size: 15px;
+    }
+}
+
+.option-btn:focus {
+    outline: 3px solid #3498db;
+    outline-offset: 2px;
+}
+
+.option-btn:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* --- Botones tipo checkbox --- */
+.option-btn.checkbox-btn.selected {
+    background-color: #27ae60;
+    box-shadow: inset 0 0 0 3px #ffffff, 0 4px 6px rgba(50, 50, 93, 0.11);
+}
+
+.option-btn.checkbox-btn.selected::before {
+    content: "✓ ";
+    font-weight: 700;
+}

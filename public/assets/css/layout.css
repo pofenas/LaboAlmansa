@@ -1,0 +1,242 @@
+/* ============================================
+   VARIABLES GLOBALES (Temas)
+   ============================================ */
+:root
+   {
+    /* Tema claro (por defecto) */
+    --color-primary: #2c3e50;
+    --color-secondary: #34495e;
+    --color-accent: #3498db;
+    --color-success: #27ae60;
+    --color-warning: #f39c12;
+    --color-danger: #e74c3c;
+    --color-light: #ecf0f1;
+    --color-dark: #2c3e50;
+    --color-text: #333333;
+    --color-text-light: #7f8c8d;
+    --bg-body: #f5f6fa;
+    --bg-banner: #2c3e50;
+    --bg-sidebar: #ffffff;
+    --bg-content: #ffffff;
+    --border-color: #dddddd;
+    
+    /* Imagen de fondo (opcional) */
+    --bg-image: none;
+   }
+
+/* Tema oscuro (opcional, se activaría con una clase en body) */
+body.dark-theme
+   {
+    --color-primary: #1a2632;
+    --color-secondary: #2c3e50;
+    --color-accent: #3498db;
+    --color-light: #34495e;
+    --color-dark: #ecf0f1;
+    --color-text: #ecf0f1;
+    --color-text-light: #bdc3c7;
+    --bg-body: #1a1a2e;
+    --bg-banner: #16213e;
+    --bg-sidebar: #0f3460;
+    --bg-content: #16213e;
+    --border-color: #2c3e50;
+   }
+
+/* ============================================
+   RESET Y ESTILOS BASE
+   ============================================ */
+*
+   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+
+body
+   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-body);
+    background-image: var(--bg-image);
+    color: var(--color-text);
+    height: 100vh;
+    overflow: hidden;
+   }
+
+/* ============================================
+   BANNER SUPERIOR
+   ============================================ */
+.banner
+   {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background-color: var(--bg-banner);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 1000;
+   }
+
+.banner-content
+   {
+    font-size: 1.2em;
+    font-weight: bold;
+   }
+
+.user-info a
+   {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.2);
+   }
+
+.user-info a:hover
+   {
+    background-color: rgba(255,255,255,0.3);
+   }
+
+/* ============================================
+   CONTENEDOR PRINCIPAL
+   ============================================ */
+.main-container
+   {
+    display: flex;
+    margin-top: 60px;
+    height: calc(100vh - 60px);
+   }
+
+/* ============================================
+   SIDEBAR (MENÚ ACORDEÓN)
+   ============================================ */
+.sidebar
+   {
+    width: 280px;
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--border-color);
+    overflow-y: auto;
+    flex-shrink: 0;
+   }
+
+/* Estilos para acordeones */
+.accordion-item
+   {
+    border-bottom: 1px solid var(--border-color);
+   }
+
+.accordion-header
+   {
+    padding: 15px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: var(--bg-sidebar);
+    color: var(--color-text);
+    transition: background-color 0.3s;
+   }
+
+.accordion-header:hover
+   {
+    background-color: var(--color-accent);
+    color: white;
+   }
+
+.accordion-header.active
+   {
+    background-color: var(--color-accent);
+    color: white;
+   }
+
+.accordion-content
+   {
+    display: none;
+    padding: 10px 0;
+    background-color: var(--bg-sidebar);
+   }
+
+.accordion-content a
+   {
+    display: block;
+    padding: 8px 20px 8px 35px;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: background-color 0.2s;
+   }
+
+.accordion-content a:hover
+   {
+    background-color: var(--color-light);
+    color: var(--color-dark);
+   }
+
+/* ============================================
+   ÁREA DE CONTENIDO (SCROLLABLE)
+   ============================================ */
+.content-area
+   {
+    flex: 1;
+    overflow: hidden;
+    background-color: var(--bg-content);
+   }
+
+.content-scroll
+   {
+    height: 100%;
+    overflow-y: auto;
+    padding: 20px;
+   }
+
+/* ============================================
+   UTILIDADES
+   ============================================ */
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.mt-1 { margin-top: 5px; }
+.mt-2 { margin-top: 10px; }
+.mt-3 { margin-top: 15px; }
+.mb-1 { margin-bottom: 5px; }
+.mb-2 { margin-bottom: 10px; }
+.mb-3 { margin-bottom: 15px; }
+.p-1 { padding: 5px; }
+.p-2 { padding: 10px; }
+.p-3 { padding: 15px; }
+/* ============================================
+   ITEMS SIMPLES DEL MENÚ (fuera de acordeón)
+   ============================================ */
+.menu-simple-item
+   {
+    border-bottom: 1px solid var(--border-color);
+   }
+
+.simple-menu-link
+   {
+    display: block;
+    padding: 12px 20px;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: background-color 0.2s;
+    font-weight: 500;
+   }
+
+.simple-menu-link:hover
+   {
+    background-color: var(--color-accent);
+    color: white;
+   }
+
+/* Ajuste para que los acordeones y items simples se vean uniformes */
+.accordion-header
+   {
+    padding: 12px 20px;
+    font-weight: 500;
+   }
+
+.accordion-content a
+   {
+    padding: 10px 20px 10px 35px;
+   }

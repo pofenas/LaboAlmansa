@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recogida de Líquidos Biológicos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Recogida de Líquidos Biológicos</h1>
+
+        <!-- ================= PASO 1: Selección de tipo ================= -->
+        <div class="step active" id="step-inicio">
+            <h2>Selecciona el tipo de líquido</h2>
+            <div class="options">
+                <button class="option-btn" data-tipo="lcr">Líquido cefalorraquídeo</button>
+                <button class="option-btn" data-tipo="sinovial">Líquido sinovial</button>
+                <button class="option-btn" data-tipo="pleural">Líquido pleural</button>
+                <button class="option-btn" data-tipo="ascitico">Líquido ascítico</button>
+                <button class="option-btn" data-tipo="absceso">Drenaje de absceso</button>
+            </div>
+        </div>
+
+        <!-- ================= PASO 2: LCR ================= -->
+        <div class="step" id="step-lcr">
+            <h2>Líquido cefalorraquídeo</h2>
+            <p>Marca las determinaciones solicitadas:</p>
+
+            <!-- Área de información ARRIBA -->
+            <div class="result" id="result-lcr">
+                <h3>Indicaciones de recogida y envío</h3>
+                <div id="result-lcr-content"></div>
+            </div>
+
+            <div class="options">
+                <button class="option-btn checkbox-btn" data-check="lcr-bioq">Bioquímica</button>
+                <button class="option-btn checkbox-btn" data-check="lcr-micro">Microbiología</button>
+                <button class="option-btn checkbox-btn" data-check="lcr-deterioro">Deterioro cognitivo</button>
+                <button class="option-btn checkbox-btn" data-check="lcr-recuento">Recuento celular</button>
+            </div>
+
+            <div class="options">
+                <button class="option-btn back-btn" data-back="inicio">Atrás</button>
+                <button class="option-btn restart-btn" data-restart>Reiniciar</button>
+            </div>
+        </div>
+
+        <!-- ================= PASO 3: SINOVIAL ================= -->
+        <div class="step" id="step-sinovial">
+            <h2>Líquido sinovial</h2>
+            <p>Marca las determinaciones solicitadas:</p>
+
+            <div class="result" id="result-sinovial">
+                <h3>Indicaciones de recogida y envío</h3>
+                <div id="result-sinovial-content"></div>
+            </div>
+
+            <div class="options">
+                <button class="option-btn checkbox-btn" data-check="sin-bioq">Bioquímica</button>
+                <button class="option-btn checkbox-btn" data-check="sin-recuento">Recuentos celulares</button>
+                <button class="option-btn checkbox-btn" data-check="sin-micro">Microbiología</button>
+                <button class="option-btn checkbox-btn" data-check="sin-perfil">Perfil sinovial</button>
+            </div>
+
+            <div class="options">
+                <button class="option-btn back-btn" data-back="inicio">Atrás</button>
+                <button class="option-btn restart-btn" data-restart>Reiniciar</button>
+            </div>
+        </div>
+
+        <!-- ================= PASO 4: PLEURAL ================= -->
+        <div class="step" id="step-pleural">
+            <h2>Líquido pleural</h2>
+            <p>Marca las determinaciones solicitadas:</p>
+
+            <div class="result" id="result-pleural">
+                <h3>Indicaciones de recogida y envío</h3>
+                <div id="result-pleural-content"></div>
+            </div>
+
+            <div class="options">
+                <button class="option-btn checkbox-btn" data-check="ple-ph">pH</button>
+                <button class="option-btn checkbox-btn" data-check="ple-bioq">Bioquímica</button>
+                <button class="option-btn checkbox-btn" data-check="ple-recuento">Recuentos celulares</button>
+                <button class="option-btn checkbox-btn" data-check="ple-micro">Microbiología</button>
+            </div>
+
+            <div class="options">
+                <button class="option-btn back-btn" data-back="inicio">Atrás</button>
+                <button class="option-btn restart-btn" data-restart>Reiniciar</button>
+            </div>
+        </div>
+
+        <!-- ================= PASO 5: ASCÍTICO ================= -->
+        <div class="step" id="step-ascitico">
+            <h2>Líquido ascítico</h2>
+            <p>Marca las determinaciones solicitadas:</p>
+
+            <div class="result" id="result-ascitico">
+                <h3>Indicaciones de recogida y envío</h3>
+                <div id="result-ascitico-content"></div>
+            </div>
+
+            <div class="options">
+                <button class="option-btn checkbox-btn" data-check="asc-bioq">Bioquímica</button>
+                <button class="option-btn checkbox-btn" data-check="asc-recuento">Recuentos celulares</button>
+                <button class="option-btn checkbox-btn" data-check="asc-micro">Microbiología</button>
+            </div>
+
+            <div class="options">
+                <button class="option-btn back-btn" data-back="inicio">Atrás</button>
+                <button class="option-btn restart-btn" data-restart>Reiniciar</button>
+            </div>
+        </div>
+
+        <!-- ================= PASO 6: ABSCESO ================= -->
+        <div class="step" id="step-absceso">
+            <h2>Drenaje de absceso</h2>
+            <p>Marca las determinaciones solicitadas:</p>
+
+            <div class="result" id="result-absceso">
+                <h3>Indicaciones de recogida y envío</h3>
+                <div id="result-absceso-content"></div>
+            </div>
+
+            <div class="options">
+                <button class="option-btn checkbox-btn" data-check="abs-micro">Microbiología</button>
+            </div>
+
+            <div class="options">
+                <button class="option-btn back-btn" data-back="inicio">Atrás</button>
+                <button class="option-btn restart-btn" data-restart>Reiniciar</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

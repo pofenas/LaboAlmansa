@@ -1,0 +1,631 @@
+"PRUEBA","VALOR REFERENCIA","tubo","unidades","Características","Significado Clínico","Condiciones preanalíticas","Cuándo solicitar","Quién solicita","Interferencias"
+"ESPERMIOGRAMA FERTILIDAD",".",".",".",".",".",".",".",".","."
+"CONTROL VASECTOMÍA",".",".",".",".",".",".",".",".","."
+"CAPACITACIÓN SEMINAL",".",".",".",".",".",".",".",".","."
+"SISTEMATICO DE ORINA",".",".",".",".",".",".",".",".","."
+"HEMOGRAMA",".",".",".",".",".",".",".",".","."
+"DROGAS DE ABUSO",".",".",".",".",".",".",".",".","."
+"GLUCOSA","74-109","Suero o plasma heparina","mg/dL","Hidrato de carbono, eje central del metabolismo","Diagnóstico y seguimiento de la diabetes","Las comunes","Control y sospecha","Todos","."
+"UREA","10-50","Suero o plasma heparina","mg/dL","catabolito de excreción urinaria del nitrógeno proveniente del ciclo de la urea","Función renal","Las comunes","Estudio, seguimiento de la función renal
+","Todos","."
+"CREATININA","0,66-1,25
+0,52-1,04","Suero o plasma heparina","mg/dL","catabolito de excreción urinaria del nitrógeno proveniente del músculo","Correlación con el filtrado glomerular y la función renal.","Las comunes","Estudio, seguimiento de la función renal
+Como denominador en los ratios de excrección de otras sustancias en orina.","Todos","."
+"COLESTEROL","<200 mg/dL","Suero","mg/dL","Esteroide fundamental en las membranas y en el metabolismo esteroideo","Su elevación está relacionada con el aumento del riesgo cardiovascular por la formación de placas de arterioesclerosis","Ayunas","Control y seguimiento del tratamiento con fármacos hipocolesterolemiantes","Todos","."
+"TRIGLICERIDOS","<150  mg/dL","Suero","mg/dL","Reserva de ácidos grasos","Control dietético
+Alteraciones genéticas o adquiridas en el transporte de lípidos en las lipoproteínas plasmáticas","Ayunas","Control y seguimiento hipertrigliciridemias","Todos","."
+"PROTEÍNAS TOTALES",".","Suero",".","Grupo heterogéneo de proteínas plasmáticas entre las que destaca cuantitativamente la albúmina","Valoración función hepática
+Valoración de equilibrio coleidosmótico vascular/extracelular
+Valoración renal
+Valoración neoplasia células plasmáticas…","Las comunes
+Considerar el tipo de muestra (plasma o suero) y la posición supina/ortostática del paciente a la hora de evaluar cambios","Alteraciones equilibrio hidroelectrolítico (Ej. edemas)
+Fatiga…","Todos","."
+"ALBUMINA","Adultos: 3.4-4.8 g/dL
+Niño (0-4d): 2.8-4.4
+Niño (4-14a): 3.8-5.4
+Niño (14-18):3.2-4.5","Suero o plasma heparina","g/dL","Proteína plasmática (60% total); Mantiene presión oncótica, transporta y almacena ligandos, fuente de aas ; une Br,Ca, Ac G cadlarga,iones de met.pesad. tóxicos y Fs.","Elevación en deshidratación e infusiones i.v.
+Déficit en estados dilucionales, desnutrición, malabsorción, grandes quemados, nefropatías, hepatopatias, hemorrágias, enteropatías con pérdida de proteínas.","Las comunes
+Considerar el tipo de muestra (plasma o suero) y la posición supina/ortostática del paciente a la hora de evaluar cambios","Alteraciones equilibrio hidroelectrolítico (Ej. edemas)
+Fatiga…","Todos","Muy raro:resultados 
+falsos en gammapatía
+IgM (Waldenström)."
+"BILIRRUBINA TOTAL","0,2-1,2 mg/dL","Suero o plasma heparina","mg/dL","catabolito excretado del metabolismo del grupo hemo","Valoración del catabolismo del grupo hemo y de la conjugación hepática.","La bilirrubina directa es muy sensible a la luz. Evitar luz si se demora el análisis más de dos horas.","Pacientes con sospecha de hiperbilirrubinemia por insuficiencia hepática, obstrucción posthepática, hemólisis…
+Estudio pacientes con hiperbilirrubinemia congénita
+Estudio de la ictericia del recién nacido","Todos","Luz"
+"BIL conjudada y no conjugada ","<0,3 Bc y <1,1 Bu
+Neonatos <0,6 Bc y <10,5Bc ","Suero","mg/dL","Producto catabólico de la degradación del grupo hemo resultado del metabolismo hepático de la bilirrubina indirecta que se solubiliza mediante conjugación con glucurónido previo a su excreción renal.","Análisis diferencial de la ictericia. En casos de ictericia posthepática la elevación de bilirrubina total es debida al aumento de la bilirrubina directa en mayor medida","Inestable a la luz. Procesar en plazo menor de 4 horas","Sospecha de ictericia. Se realiza si la Biirrubina total es mayor de 1,9 mg/dL","General","Luz"
+"GOT","H 17-59
+M 14-36","Suero o plasma heparina","U/L","Transaminasa q cataliza  la conversión de aas a los alfa-cetoacidos correspond.
+En todos los tejs especialm (citoplasma y mitocondria)
+en miocardio,cerebro,hígado,SGI,tejadip,muscesq,riñón",".",".","Marcador hepático
+Marcador de daño muscular
+Fármacos hepatotóxicos
+Virus hepatotropos
+Hepatitis autoinmunes","Todos","Hemólisis"
+"GPT","H <50
+M <35","Suero o plasma heparina","U/L","Enzima transaminasa ubícua, abundante en el hígado","niveles altos indican daño hepático",".","Síntomas de hematitis o insuficiencia hepática
+Pancreatitis
+Fármacos hepatotóxicos
+Virus hepatotropos
+Hepatitis autoinmunes
+","Todos","."
+"GAMMA GT","H 15-73
+M 12-43","Suero o plasma heparina","U/L","Enzima hepatica","niveles altos indican daño hepático",".","Síntomas de hematitis o insuficiencia hepática
+Pancreatitis
+Seguimiento consumo de alcohol
+Fármacos hepatotóxicos
+Virus hepatotropos
+Hepatitis autoinmunes
+",".","."
+"LDHI (IFCC Pir -> Lac)","120-246","Suero o plasma heparina","U/L","Enzima ubícua y marcador general de daño celular","Daño celular, tejidos","Las comunes
+Muy sensible a la hemólisis por estar en gran cantidad en los eritrocitos","SCA, Rabdomiolisis, tratamiento citostáticos, hemólisis, tumores y cualquier causa de daño tisular","Todos","Hemólisis"
+"FOSF. ALCALINA (ALKP)","38-126 Segregado por EDAD y sexo en Omega","Suero o plasma heparina","U/L","Enzima ubicua que en mayor medida se encuentra en hígado, huesos y aparto digestivo",".","Las comunes","Síntomas de hepatitis o disfunción hepática. 
+Alteraciónes en el metabolismo óseo","Todos","."
+"CK (CREATININ QUINASA)","H 38-174
+M 26-140","Suero o plasma heparina","U/L","Enzima presente sobre todo en músculo, higado y sistema nervioso","Daño tejido muscular","Las comunes","Dolor o debilidad muscular 
+Sospecha y segumiento miopatías
+Tratamiento estatinas y otros fármacos que puedan provocar rabdomiolisis
+Traumatismos importantes para descartar lisis tisular masiva que afecte al riñón.
+","Todos","."
+"ACIDO URICO","H 3,5-8,5
+M 2,5-6,6","Suero o plasma heparina","mg/dL","Catabolito de excreción del metabolito de las bases nitrogenadas de los ácidos nucléicos","Desequilibrio dietético o metabólico que provoca acúmulo de dicho catabolito. Ej. en las articulaciones provocando ""gota""
+De forma infrecuente defectos genéticos en el metabolismo","Las comunes","Sospecha y seguimiento tratamiento de la hiperuricemia","Todos","."
+"AMILASA","30-110","Suero o plasma heparina","U/L","Enzima salival y pancreática que hidroliza el almidón de la dieta","Pancreatitis","Las comunes","Sospecha de pancreatitis","Todos","."
+"CALCIO","8,4-10,2","Suero o plasma heparina","mg/dL","Catión alcalinotérreo esencial en la actividad enzimática, cofactor de numerosos procesos bioquímicos y mensajero secundario en la transducción de señales de activación/depleción enzimática. 
+Formación de hueso
+Formación de","Hay homeostasis hormonal del calcio iónico en sangre mediante PTH, VitD y calcitonina.
+Los desajustes hormonales, renales provocan hipocalcemias, hipercalcemias que deben tratarse","Las comunes","Síntomas de niveles altos o bajos en sangre.
+Enfermedad tiroidea y paratiroidea.
+Desnutrición
+Problemas absorción de calcio
+Neoplasias que alteren la celcemia.
+Segumiento de tratamientos osteoporosis.","Todos","Evitar contaminaciónes mínimas con anticoagulantes. Ej. EDTA"
+"FOSFORO","2-4,5 por edad ","Suero","mg/dL","Anión ácido que forma ésteres esenciales en el metabolismo energético, en la transducción de señales y en principios inmediatos como fosfolípidos, ácidos nucleicos.
+Por el carácter insoluble de sus sales cálcicas, forma la estructura mineral de los huesos.
+Participa en el metabolismo fosfocálcico. ","Hipofosfatemia e hiperfosfatemia en alteraciones del metabolismo fosfocálcico por alteraciones GI, renales, del sistema esquelético u hormonales.
+Tratamientos osteoporosis
+Insuficiencia renal
+etc","Las comunes","Monitorización de enfermedad renal, trastornos óseos y de la paratiroides.
+Desnutrición
+Monitorización de la nutrición parenteral","Todos","."
+"SODIO ISE","135-145","SUERO","mmol/L","Anión intracelular y sobre todo extracelular fundamental","Alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico",".","Sospecha, seguimiento de alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico
+Control del tratamiento diuréticos","Todos","."
+"POTASIO ISE DILUYENT","3,5-5,1 (hasta 0,7 menor en plasma)
+3,5 a 6 neonatos<3 dias","Suero","mmol/L","Anión entracelular y sobre todo intracelular fundamental","Alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico","Evitar hemólisis","Sospecha, seguimiento de alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico
+
+Control del tratamiento diuréticos","Todos","Hemólisis"
+"CLORO  ISE REFERENCE","95-107","Suero","mmol/L","Anión extracelular e intracelular fundamental porque acompaña y neutraliza al sodio y potasio
+Participa en el transporte de membrana del bicarbonato por lo que interviene en el equilibrio ácido-base.","Alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico","Las comunes","Sospecha confirmada de alteraciones del equilibrio ácido-base y del equilibrio hidroelectrolítico","Todos","."
+"COLINESTERASA","H 5900-12200 U/L
+M 4650-10440 U/L","Suero","U/L","Enzima de degradación del neurotransmisor Acetilcolina","Se solicita para descartar sensibilidad a la administración de succinilcolina por déficit
+Otros usos: intoxicación por plaguicidas, enfermedades hepáticas","Las comunes","empleo de relajantes colinérgicos en cirugía","Anestesistas, especialistas médico-quirúrgicos","Plaguicidas, fármacos…"
+"MAGNESIO","1,6-2,4","Suero","mg/dL","Catión intracelular esencial cofactor de numerosas enzimas","Disminuye en hipocalcemia, alcoholismo, desnutrición, hemodialisis crónica
+Su deficit provoca debilidad, tetania, convulsiones.
+Hipermagnesemia en I renal, deshidratación y enfermedad de
+Addison
+","Evitar hemólisis
+Orina se acidifica si hay demora","Sospecha de déficit, nutrición parenteral, insuficiencia renal",".","Hemólisis, quelantes (muy sensible a contaminación mínima de sangre con EDTA)"
+"LIPASA","23-300 U/L (Roche hasta 60)","Suero","U/L","Enzima digestiva producida principalmente por las células acinares del páncreas exocrino.","Aumento en
+pacientes con pancreatitis (más especicífica que la amilasa), abscesos pancreáticos, traumatismo pancreático, cáncer
+de páncreas y obstrucción de los conductos biliares","Evitar muestras lipémicas","Sospecha patología pancreática
+Estudio origen líquido seroso",".","Desviación negativa con lipemia"
+"HDL-COLESTEROL","H: 35-55 mg/dL M45-65 mg/L","Suero","mg/dL","Lipoproteína circulante de alta densidad que lleva el colesterol desde los tejidos al hígado para su reciclado gracias a receptores de sus apoliproteínas apoA-1 y II","Niveles muy bajos se asocian con aumento del riesgo cardiovascular
+","Ayunas","Seguimiento del rango recomendado por organismos Ej. America Heart Association en pacientes con niveles altos de colesterol y/o riesgo cardiovascular alto","Todos","Dieta"
+"LDL/COL",".",".",".",".",".",".",".",".","."
+"PROTEINA C REACTIVA","<10mg/L","Suero o plasma heparina","mg/L","Proteína de fase aguda de la familia de las pentraxinas que se une a la fosfocolina de células dañadas y algunas bacterias activando el complejo C1q","Marcador de inflamación
+La PCR ultrasensible se usa en el pronóstico del SCA","Las comunes","Sospecha, seguimiento procesos infecciosos
+Tratamiento procesos inflamatorios","AE y AP
+Urgencias","."
+"FACTOR REUMATOIDE","<14 UI/mL","Suero","UI/mL","Proteínas creadas por el sistema inmunitario que pueden atacar a tejidos sanos","Niveles elevados suelen estar relacionados con enfermedades autoinmunitarias como la AR y el síndrome de Sjogren aunque también personas sanas.
+Cáncer, infecciones crónicas, sarcoidosis, enfermedad mixta del tejido conectivo.","No requiere","Sopecha de artritis reumatoide junto con ANA, péptido cíclico citrulinado, PCR, VSG…","Reumatología
+Interna","."
+"DIGOXINA","0,8-2 ng/mL","Suero","ng/mL","glucósido cardíaco indicado para el tratamiento de la cardiopatía congestiva y las","Su estrecho intervalo útil y su toxicidad indican su monitorización","Extracción tras 6-8 horas de la última dosis","Sospecha de intoxicacion digitálica
+Control de tratamiento","Urgencias y hospitalización
+Cardiología","Anticuerpos heterófilos y anticuerpos FAB antidigoxina"
+"DIGOXINA",".",".",".",".",".",".",".",".","."
+"GENTAMICINA VALLE",".",".",".",".",".",".",".",".","."
+"GENTAMICINA PICO",".",".",".",".",".",".",".",".","."
+"VANCOMICINA VALLE",".",".",".",".",".",".",".",".","."
+"VANCOMICINA PICO",".",".",".",".",".",".",".",".","."
+"LITIO",".",".",".",".",".",".",".",".","."
+"FENITOINA LIBRE",".",".",".",".",".",".",".",".","."
+"TOBRAMICINA VALLE",".",".",".",".",".",".",".",".","."
+"TOBRAMICINA PICO",".",".",".",".",".",".",".",".","."
+"AMIKACINA VALLE",".",".",".",".",".",".",".",".","."
+"AMIKACINA PICO",".",".",".",".",".",".",".",".","."
+"AMIKACINA PICO",".",".",".",".",".",".",".",".","."
+"IgG","700-1600 mg/dL","Suero","mg/dL","Anticuerpo sérico más abundante","Elevación en inflación crónica y en gammapatía monoclonal y policlonal","Las comunes","Sospecha de gammapatía
+En determinado casos se determina los subtipos en labortorio externo","Todos, más común en MI, hematología ","."
+"IgA","70-400 mg/dL","Suero","mg/dL","Anticuerpo dimérico liberado en las excreciones saliva, moco...","Elevación en procesos inflamatorios agudos 
+Su déficit adquirido/congénito invalida la prueba de antitransglutaminasa IgA para cribado de la celiaquía","Las comunes","Sospecha de inmunoglobulinemia monoclonal IgA
+Prueba refleja al anticuerpo antitransglutaminasa IgA para cribado de la celiaquía","Todos, más común en MI, hematología y pediatría","."
+"IgM","40-230 mg/dL","Suero","mg/dL","Anticuerpo pentamérico que se relaciona con la fase aguda de la infección","Aumenta por producción policlonal y por gammapatías monoclonales de tipo IgM como la Macroglobulinemia
+Disminuye en inmunodeficiencias congénitas
+","No requiere","Sospecha de gammapatía por clínica, elevación de proteinas totales séricas, alteraciones proteinograma o hallazgos radiológicos","Reuatología
+Hematología
+Interna","."
+"C-3","88–165 mg/dL","Suero",".","Proteína clave del complemento, unión ruta clásica y alternativa que conduce al ataque a los microorganismos, movilización de leucocitos, liberación de histamina... ","Diagnóstico de enfermedades vasculares hereditarias (angioedema hereditario) e inmunes (inmunes y autoinmunes, infecciones…)","Analizar en 24 h o congelar
+No requiere preparación previa","Inflamación o edema sin causa aparente o síntomas de enfermedades autoinmunes y sospecha de inmunocomplejos","M interna, reumatología, hematologíanefrología…","."
+"C-4","14–44 mg/dL","Suero",".","enzima activadora del sistema del complemento","Su disminución refleja consumo por activación del complemento
+Diagnóstico de enfermedades vasculares hereditarias (angioedema hereditario) e inmunes (inmunes y autoinmunes, infecciones…)","Analizar en 24 h o congelar
+No requiere preparación previa","Inflamación o edema sin causa aparente o síntomas de enfermedades autoinmunes y sospecha de inmunocomplejos","M interna, reumatología, hematologíanefrología…","."
+"TRANSFERRINA","206–381 mg/dL","Suero","mg/dL","Proteína del metabolismo del hierro que puede transportar dos átomos de hierro","Se eleva en déficits de hierro disminuyendo su saturación","Las comunes","Estudio de anemia
+Seguimiento de pacientes con hemocromatosis","Todos","."
+"PROTEINAS ORINA","<0.12 g/L (0.04–0.23 g/d)","Orina sin aditivo","g/L","Las proteínas séricas más pequeñas que atraviesan el glomérulo son reabsorbidas en el tubulo del riñon sano","Daño renal: glomerulonefitis o enfermedades del túbulo renal
+Proteinuria de Bence-Jones
+Síndromes linfoproliferativos
+","Primera orina de la mañana o orina de 24h. Evitar menstruación.","Sospecha de enfermedad renal
+Segumiento de enfermedad renal
+Estudio de preeclampsia",".","Hematuria
+Menstruación"
+"GLUCOSA 120M",".",".",".",".",".",".",".",".","."
+"DIGESTION PRINCIPIOS INMEDIATOS",".",".",".",".",".",".",".",".","."
+"SANGRE OCULTA  HECES1ª MUESTRA",".",".",".",".",".",".",".",".","."
+"CUERPOS REDUCTORES ORINA",".",".",".",".",".",".",".",".","."
+"CUERPOS REDUCTORES EN HECES",".",".",".",".",".",".",".",".","."
+"CUERPOS REDUCTORES EN HECES",".",".",".",".",".",".",".",".","."
+"CONSISTENCIA DEL CALCULO",".",".",".",".",".",".",".",".","."
+"ESPERMIOGRAMA SEMVOL",".",".",".",".",".",".",".",".","."
+"EOSINOFILOS EN MOCO",".",".",".",".",".",".",".",".","."
+"LIQUIDO PLEURAL",".",".",".",".",".",".",".",".","."
+"LIQUIDO ASCITICO",".",".",".",".",".",".",".",".","."
+"LIQUIDO SINOVIAL",".",".",".",".",".",".",".",".","."
+"LIQUIDO CEFALORRAQUIDEO",".",".",".",".",".",".",".",".","."
+"COCIENTE LECITINA ALBUMINA",".",".",".",".",".",".",".",".","."
+"LIQUIDO PERITONEAL",".",".",".",".",".",".",".",".","."
+"SODIO EN HECES",".",".",".",".",".",".",".",".","."
+"ALMIDON",".",".",".",".",".",".",".",".","."
+"VOLUMEN SEMEN VASECTOMIA",".",".",".",".",".",".",".",".","."
+"COMPOSICIÓN DEL CÁLCULO",".",".",".",".",".",".",".",".","."
+"TEST HIPOOSMOTICO",".",".",".",".",".",".",".",".","."
+"RECUENTO POST CAPACITACIÓN",".",".",".",".",".",".",".",".","."
+"POTASIO EN HECES",".",".",".",".",".",".",".",".","."
+"OSMOLALIDAD EN HECES",".",".",".",".",".",".",".",".","."
+"HEMOSIDERINA EN ORINA",".",".",".",".",".",".",".",".","."
+"pH EN HECES",".",".",".",".",".",".",".",".","."
+"pH EN HECES",".",".",".",".",".",".",".",".","."
+"RECLIQ",".",".",".",".",".",".",".",".","."
+"CRISTALES EN LIQUIDO SINOVIAL",".",".",".",".",".",".",".",".","."
+"pH  EN LIQUIDO BIOLOGICO",".",".",".",".",".",".",".",".","."
+"TEST DE EOSINA/NIGROSINA",".",".",".",".",".",".",".",".","."
+"LAVADO BRONCOALVEOLAR",".",".",".",".",".",".",".",".","."
+"LIQUIDO PERICARDICO",".",".",".",".",".",".",".",".","."
+"PROTEINAS EN LCR","12-60 mg/dL (FS diluent pack2)","Sin aditivo",".","El LCR es un líquido con muy bajo contenido proteico debido a la integridad de la barrera hematoencefálica","Aumenta en meningitis inflamatorias, víricas o bacterianas, síndrome de Gillain Barré, ","Recoger gota a gota en al menos 3 tubos rotulados para conocer si hay contaminación sanguínea","Sospecha de meningitis
+Control de linfomas/leucemias
+Control de enfermedades autoinmunes SNC (Sínd. Gillain Barré)
+Estudio de enfermedades con deterioro cognitivo
+","Urgencias
+Hospitalización
+Oncología
+Neurología
+","Presencia de sangre"
+"PROTEINAS EN LCR",".",".",".",".",".",".",".",".","."
+"EOSINOFILOS EN ORINA",".",".",".",".",".",".",".",".","."
+"OTRAS MUESTRAS BIOLOGICAS",".",".",".",".",".",".",".",".","."
+"VOLUMEN SEMINAL",".",".",".",".",".",".",".",".","."
+"AFP EN LIQ. AMNIÓTICO",".",".",".",".",".",".",".",".","."
+"CERULOPLASMINA (UDA1)","20-60 mg/dL","Suero","mg/dL","Proteína hepatica de almacén y transporte de cobre ","Elevación: diagnóstico de enfermedad de Wilson, enfermedades hematologicas.
+Déficit: Malnutrición, enfermedad genética de Menkes, hepatopatía, enfermedad renal","Suero","Signos piel y fondo de ojo, síntomas relacionados","Oftalmología, M interna, hematología, reumatología","."
+"HIERRO","H: 49-181 microg/dL
+M: 37-160 microg/dL","Suero","µg/dL","Cofactor enzimático y del grupo hemo","Es marcador de niveles de hierro pero se ve afectado porque el hierro es una factor de fase aguda que disminuye en procesos inflamatorios","Las comunes","Estudio del metabolismo del hierro en diagnóstico diferencia y seguimiento de anemias","Todos","."
+"ESPERMIOGRAMA SEMREC",".",".",".",".",".",".",".",".","."
+"SPZ PROGRESIVOS %",".",".",".",".",".",".",".",".","."
+"SPZ NO PROGRESIVOS",".",".",".",".",".",".",".",".","."
+"SPZ NO PROGRESIVOS",".",".",".",".",".",".",".",".","."
+"SPZ NO PROGRESIVOS %",".",".",".",".",".",".",".",".","."
+"SPZ NO PROGRESIVOS %",".",".",".",".",".",".",".",".","."
+"INMOVILES",".",".",".",".",".",".",".",".","."
+"SPZ NORMALES",".",".",".",".",".",".",".",".","."
+"SANGRE OCULTA HECES2ª MUESTRA",".",".",".",".",".",".",".",".","."
+"SANGRE OCULATA HECES3ª MUESTRA",".",".",".",".",".",".",".",".","."
+"ANTÍGENO ESTREPTOCOCO A",".",".",".",".",".",".",".",".","."
+"CRIBADO CANCER DE COLON",".",".",".",".",".",".",".",".","."
+"SOH CRIBADO CCR",".",".",".",".",".",".",".",".","."
+"ANFETAMINAS",".",".",".",".",".",".",".",".","."
+"ANFETAMINAS Y RESTO DAO",".",".",".",".",".",".",".",".","."
+"BARBITURICOS",".",".",".",".",".",".",".",".","."
+"BENZODIACEPINAS",".",".",".",".",".",".",".",".","."
+"BENZODIACEPINAS",".",".",".",".",".",".",".",".","."
+"COCAINA",".",".",".",".",".",".",".",".","."
+"metanfetamina",".",".",".",".",".",".",".",".","."
+"METANFETAMINAS",".",".",".",".",".",".",".",".","."
+"MORFINA",".",".",".",".",".",".",".",".","."
+"MORFINA",".",".",".",".",".",".",".",".","."
+"METADONA",".",".",".",".",".",".",".",".","."
+"METADONA",".",".",".",".",".",".",".",".","."
+"FENCICLIDINA",".",".",".",".",".",".",".",".","."
+"FENCICLIDINA",".",".",".",".",".",".",".",".","."
+"PROPOXIFENO",".",".",".",".",".",".",".",".","."
+"AMINAS TRICICLICAS",".",".",".",".",".",".",".",".","."
+"AMINAS TRICICLICAS",".",".",".",".",".",".",".",".","."
+"MARIHUANA",".",".",".",".",".",".",".",".","."
+"EXTASIS",".",".",".",".",".",".",".",".","."
+"EXTASIS",".",".",".",".",".",".",".",".","."
+"ANTICUERPOS ANTIMICROSOMALES TIROIDEOS  ANTIPEROXIDASA",".","Suero",".",".",".",".",".",".","."
+"ANTICUERPOS ANTIMICROSOMALES TIROIDEOS  ANTIPEROXIDASA",".",".",".",".",".",".",".",".","."
+"ANTICUERPOS ANTITIROGLOBULINA",".","Suero",".",".",".",".",".",".","."
+"ANTICUERPOS ANTITIROGLOBULINA",".",".",".",".",".",".",".",".","."
+"AC ANTIPÉPTIDO CÍCLICO CITRULI",".",".",".",".",".",".",".",".","."
+"Ac IgA Anti-Transglutaminasa",".",".",".",".",".",".",".",".","."
+"NIVELES DE INFLIXIMAB",".",".",".",".",".",".",".",".","."
+"T3 LIBRE","2,77-5,27 pg/mL","Suero","pg/mL","Hormona catabólica producida por el tiroides, tras iodación del anillo aromático de la tiroxina.","Complemento a la T4 libre en el estudio del funcionamiento glándula endocrina del tiroides. Detección del Hiper e hipopartiroidismo",".","Sólo se realiza si hay discrepancia entre la TSH y la T4L en explicar la retroalimentación negativa","Endocrino, interna, atención primaria","."
+"TSH tirotropina","H>22y: 0,4 a 4,049 microUI/mL
+M:0,589 a 6,880 microUI/mL
+Niños 0-23m: 0,729 a 4,402
+2-12y: 0,456 a 4,160
+13-21y: 0,130 a 3,120
+Embarazadas: 1T: 0,275-2,652; 2T: 0,313 a 2,947
+
+
+","Suero","µU/mL","Hormona glicoproteíca de la hipófisis anterior cuya liberación es activada   por la TRH hipotalamica y regulada por las hormonas tiroideas ","Detectar hipo o hipertiroidismo y trastornos subclínicos,
+monitorizar tratamiento de sustitución de la hormona tiroidea, y evaluar el tratamiento supresor en pacientes con cáncer de tiroides folicular","No debe realizarse en pacientes ingresados",".","Endocrino, interna, atención primaria","En pacientes con suplementos altos de biotina confirmar en caso de resultados discordantes con la clínia"
+"T4 LIBRE","0,78--2,19 ng/dL","Suero","ng/dL","Hormona catabólica producida por el tiroides, tras iodación del anillo aromático de la tiroxina.","Funcionamiento glándula endocrina del tiroides. Detección del Hiper e hipopartiroidismo",".","Sospecha funcionamiento anormal del tiroides
+Sólo se realiza si TSH es patológica >4,2 µU/mL","Endocrino, interna, atención primaria","."
+"HORMONA LUTENEIZANTE LH","fase folicular: 2.58–12.1 mIU/mL
+Pico mitad ciclo: 27.3–96.9 mIU/mL
+Fase lútea: 0.833–15.5 mIU/mL
+Postmenopausia: 13.1–86.5 mIU/mL
+","Suero","mUI/mL","hormona dimérica hipofisiaria secretada en respuesta a la GnRH y controlada por feedback por esteroides ováricos, con subunidad α común BHCG que estimula la maduración del cuerpo lúteo. ","Estudio hormonal femenino
+Estudio disfunción ovárica y premenopausia donde presenta elevación por ausencia de feedback
+Estudio fallo desarrollo pubertad","Asegurar realización día ciclo indicado","Alteraciones desarrollo puberal
+Alteraciones menstruación
+Infertilidad
+Hirsutismo
+Sospecha alteración eje hipotálamo-hipófisis-gónadas","Control día del ciclo en mujeres. Preferente 3 a 5º día ciclo","."
+"H. FOLICULOESTIMULANTE FSH","fase folicular: 1.98–11.6 mIU/mL
+Pico mitad ciclo: 5.14–23.4 mIU/mL
+Fase lútea:1.38–9.58 mIU/mL
+Postmenopausia: 21.5–131 mIU/mL
+H: 1.55–9.74 mIU/mL
+","Suero","mUI/mL","hormona hipofisiaria secretada en respuesta a la GnRH y controlada por feedback por esteroides ováricos que mantiene y desarrolla los tejidos gonadales en hombres y mujeres.","Estudio hormonal femenino
+Estudio disfunción ovárica y premenopausia.
+Estudio fallo desarrollo pubertad
+Estudio de insuficiencia testicular","Asegurar realización día ciclo indicado","Alteraciones desarrollo puberal
+Alteraciones menstruación
+Infertilidad
+Hirsutismo
+Sospecha alteración eje hipotálamo-hipófisis-gónadas","Control día del ciclo en mujeres. Preferente 3 a 5º día ciclo","."
+"BETA HCG","mUI/mL","Suero o plasma heparina","mUI/mL","Familia gonadotropinas. Hormona glucoproteica. Se forma en placenta durante el embarazo. La subunidad alfa es idéntica a la subunidad alfa de la LH por lo que se emplea la beta para su determinación","Detección de embarazo y seguimiento (amenaza aborto, embarazo ectópico…), tumores células germinales o trofoblasto, mola hidatif, tumores productores HCG de origen ovárico, testicular o placenta, riesgo trisomia 21, tumor vesical, páncreas…",".","No solicitar para confirmar embarazo, mejor test orina, No solicitar para cribado prenatal, mejor betaHCG libre","Medicina interna, Ginecología, Urología","."
+"ESTRADIOL","fase folicular: 26.6–161 pg/mL
+Preovulatorio: 187–382 pg/mL
+Fase lútea:32.7–201 pg/mL
+Postmenopausia: 5.37–38.4 pg/mL
+H: .37–65.9 pg/mL
+","Suero","pg/mL","Hormona esteroide. Se forma en ovarios, testículos, corteza suprarrenal y placenta (embarazo).","Actividad ovárica y testicular
+Se produce un pico en la ovulación
+Su elevación puede estar relacionada con tumores germinales
+","Asegurar realización día ciclo indicado","Trastornos de fertilidad: localizar causa en el sistema hipotálamo-hipófisis-gónadas.
+Detectar ginecomastia, tumores ováricos y testiculares productores de estrógenos, hiperplasias de corteza suprarrenal.
+Control de tratamientos de fertilidad y detectar ovulación en FIV.
+","Control día del ciclo en mujeres. Preferente 3 a 5º día ciclo","."
+"PROLACTINA","No embarazadas: 3.0–18.6 ng/mL
+H:3.7–17.9 ng/mL
+","Suero","ng/mL","Hormona secretada por la hipofisis bajo control inhibición por dopamina hipotálamo, de varias formas moleculares parecida a la HG","función clave en la iniciación y mantenimiento de la lactación.
+La hiperprolactinemia por adenoma o prolactinoma provoca disfunción gonadal en ambos sexos.",".","Evitar situación de estrés en caso de elevación realizar prolactina a los 20 min con vía para confirmar.
+Tener precaución con el efecto prozona en caso de prolactinoma. Confirmar con dilución seriada. Descartar tambien macroprolactinemia",".","."
+"PROGESTERONA","fase folicular: 0.14–2.03 ng/m
+preovulatorio: 0.40–4.47 ng/mL
+Mitad fase lútea: 5.22–22.7 ng/mL
+Fase lútea: 1.42–16.6 ng/mL
+","Suero","ng/mL","Hormona esteroidea asociada al desarrollo del cuerpo luteo y del embarazo","Aumenta un día antes de la ovulación y prosigue en la fase lútea,  correlacionada con el desarrollo y regresión del cuerpo lúteo.
+En el embarazo, se forma en placenta, inhibiendo la contracción del útero y estimulando las glándulas mamarias.
+","Se suele estudiar entre el 3 y 4 día del ciclo mentrual.","Diagnóstico de fertilidad: comprobar la ovulación y controlar la fase lútea","Ginecología
+AP","."
+"HOMOCISTEINA",".","plasma EDTA FRÍO","µmol/L",".",".",".",".",".","."
+"CORTISOL","<10h: 4.46–22.7 μg/dL
+<17h:1.7–14.1 μg/dL
+","Suero","µg/dL","Corticosteroide regula metabolismo azúcares, electrolitos, agua, inflamación e inmunosupresión.","Su secreción depende de la integridad del eje HHSupr con retroalim negativa. Transportada por globulina transportadora de glucocorticoide. Semivida de 80 mminutos. Se excreta como cortisol libre (1% con FG normal) y metabolitos.
+Sospecha de Sdme de Cushing y síndrome de Addison","Es importante el control de la hora de extracción
+Asegurar que ha tomado la dexametasona en el test de Nuguet","Hay cuatro situaciones en que es útil su medida para estudiar el eje HHSr:
+Cortisol 8h
+Cortisol 20h
+Cortisol postdexametasona (supresión débil)
+Prueba funcional","Endocrino
+Medicina interna
+","Ajustar las condiciones para interpretar el resultado correctamente"
+"CORTISOL ORINA ","12.9–253 μg cortisol/24 hours","Orina sin aditivo",".","Hormona glucocorticoide relacionada con el estado de alerta","Su elevación en orina de 24 h refleja la producción mejor que una medida puntual en plasma al tratrse de una hormona con ritmo circadiano","Recogida de orina de 24h","Sospecha de adenoma o alteración del eje hipófisis-hipotálamo-glándula suprarenal
+Sospecha de síndrome de Cushing","Endocrino
+Medicina interna
+","."
+"CORTISOL URINARIO 24 HORAS","12.9–253 μg cortisol/24 hours","Orina sin aditivo","µg/día",".","Medida media de la secreción diaria de cortisol",".",".",".","."
+"BHCG URGENCIAS",".",".",".",".",".",".",".",".","."
+"HOMOCISTEINA","H: 6,6 a 14,8 micromol/L
+M: 4,7 a 12,6 micromol/L","plasma EDTA FRÍO","µmol/L","Aminoácido azufrado metabolito de compuestos azufrados que participa  en el sistema de transferencia de grupos metilos ","Carencia vitaminas B6, fólico y B12
+Déficit MTHFR y otras alteraciones en procesos de transferencia de metilos.
+Factor de riesgo protrombotico y de enfermedades cardiovasculares","Plasma EDTA centrifugado en menos de una hora ya que el eritrocito contiene cantidades significativas","Estudio de trombofilias","Hematologia y Interna","Homocisteína intraeritrocitaria"
+"C.E.A.","≤3.0 ng/mL sanos no fumadores","Suero","ng/mL","GlucoP presente a niveles bajos que se eleva en tumores digestivos y otras neoplasias","Seguimiento tratamiento carcinomas CR, mama, pulmón, próstata, pancreas y ovario.","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","Ante sospecha de proceso neoplásico se recomienda repetir los marcadores
+en 3-4 semanas para estudiar su evolución.",".","Disc retas elevaciones de CEA pueden observarse en diversas patologías
+benignas (hepatopatías, insuficiencia renal) y en fumadores (hasta en un
+5-7% de los fumadores encontramos valores de hasta 10-15 ng/mL )"
+"ALFA FETOPROTEINA","0,1-12,1 ng/mL","Suero","ng/mL","proteína hepática producida en el feto durante su desarrollo","-Carcinoma hepatocelular, estadío, junto a la BHCG, de tumores no seminomatosos de las células germinales. -marcador en sangre materna y líquido amniótico de espina bífida, anancefalia, atresia esofágica y embarazo múltiple. - Bajo en Sdme de Down",".","Sospecha tumor hepático o de células germinales, diagnóstico prenatal","Digestivo, urología, interna, ginecología, pediatría","."
+"B2MICR UDA2","New born <3  mg/L
+0 - 59 years <1,9 mg/L
+60 - 69 years <2,1 mg/L
+> 70 years <2,4 µg/mL","Suero","mg/L","Proteína componente del MHC de toda célula nucleada excepto los eritrocitos","Doble uso:
+Marcador tumoral de neoplasias hematológicas
+Marcador nefropatía por su bajo peso molecular
+Otros: amiloidosis",".",".",".","."
+"PSA","<2,5 ng/mL","Suero","ng/mL","Glucoproteína prostática que ayuda a la licuefacción y disolución del moco cervical","Un aumento moderado en sangre se asocia a hiperplasia benigna de próstata o carcinoma prostático incipiente.","Las comunes","No usarlo como cribado de la población sin antes realizar una anamnesis y exploración.
+","AP, urología, geriatría entre otros","Elevaciones de PSA se producen en la manipulación
+prostática, prostatitis, sondaje vesical, shock cardiogénico. Si la
+manipulación prostática o sondaje son muy recientes el PSA puede estar
+por encima de 100. Valorar a las 3-4 semanas"
+"CA 125",">35 U/L","Suero","U/mL","CA 125 es un epítopo peptídico repetido de la mucina MUC16 que promueve la proliferación de células cancerígenas e inhibe la respuesta inmune frente al cáncer.","Un valor elevado en un paciente sin causa conocida que lo explique debe considerarse de riesgo y ser monitorizado. Se considera un cambio significativo cuando es >25% del valor anterior, pudiendo indicar progresión de la enfermedad o recidiva","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","No válido para cribado o detección precoz. Para el seguimiento evolutivo se recomienda no repetir antes de 3-4 semanas Se solicita  en sospecha clínica y tratamiento de
+Neoplasias ginecológicas, (carcinoma de ovario y endometrio)
+Neoplasias pulmonares","Oncología, ginecología, neumología, medicina interna entre otros","AUMENTOS LEVES: 
+Menstruación
+Infecciones pulmonares, EPOC
+Síndrome nefrótico
+
+MODERADOS 
+IR, Hepatopatías
+Patologías ginecológicas benignas 
+Enfermedades Autoinmunes
+
+IMPORTANTES 
+Gestación
+Derrames seroso"
+"CA 19.9",">37 U/L","Suero","U/mL","Antígeno carbohidrato 19.9 o antígeno sializado de Lewis (a) que se eleva en pacientes con diversas enfermedades gastrointestinales, como por ejemplo los carcinomas pancreático, colorrectal, gástrico,
+hepatocelular y colangiocelular."," Uso en seguimiento tumor  y monitorización del tratamiento Neoplasias digestivas (std páncreas), ginecológicas, (en un 60% carcinoma mucinoso de ovario, en un 30% carcinoma de endometrio ó cervix), pulmonares (principalmente NCICP). Std adenocarcinomas.","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","No válido para cribado o detección precoz. Para el seguimiento evolutivo se recomienda no repetir antes de 3-4 semanas","Oncología, Digestivo, neumología y Ginecología entre otros","Aumentos en PATOLOGÍA NO TUMORAL:
+LEVES: 
+Patología pulmonar benigna
+
+MODERADOS (<400-500)
+IR, Hepatopatías
+Patología GI benigna
+Patologías ginecológicas benignas 
+Derrames
+
+IMPORTANTES (<1000)
+Colestasis
+Ictericia"
+"CA 15.3",">31 U/mL","Suero","U/mL","El antígeno carbohidratado CA 15-3 es un derivado de la glucoproteína MUC-1 usado como marcador tumoral","Un resultado alto en un paciente con signos de neoplasia o un incremento significativo sugieren con alta probabilidad neoplasia. Cambio significativo cuando es  >25% del valor anterior, pudiendo indicar progresión de la enfermedad o recidiva","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","No válido para cribado. Para el seguimiento evolutivo de los valores de CA 15.3 se recomienda no repetir antes de 3-4 semanas","General","RESULTADOS ELEVADOS EN PATOLOGÍA NO TUMORAL:
+Moderados <200
+Tratamiento con GM-CSF
+Patología pulmonar infecciosa
+Enfermedades autoinmunes
+Patología ginecológica benigna
+Derrames
+IR e IH
+IMPORTANTES (<400)
+Anemia megaloblástica"
+"AG.CARCINOMA CELULAS ESCAM",".",".",".",".",".",".",".",".","."
+"PSA LIBRE"," ng/mL (índice <0,2)","Suero","ng/mL","Fracción que circula libre en sangre de la glucoproteína prostática PSA","Se determina su fracción en los casos en que el PSA total se encuentra entre 4 y 10 ng/mL. Una disminución de la proporción se asocia a mayor probabilidad de carcinoma","Las comunes","No se solicita, se realiza cuando el PSA total se encuentra entre  4 y 10 ng/mL en sangre","AP, urología, geriatría entre otros","."
+"ACIDO FÓLICO SÉRICO","3-17ng/mL","Suero","ng/mL","Coenzima derivada del ácido pteroidilglutámico implicada junto a la B12 la transferencia de unidad de carbono individual. Ej síntesis metionina y de ADN
+Vitamina con fuentes
+alimentarias como la fruta, las verduras verdes y de hoja, la levadura y la carne de órganos","Su déficit, baja ingesta, malaabsorción, Aconcep O fenitoína, alcohol... provoca anemia macrocítica y aumento homocisteina con aumento riesgo cardiovascular, cáncer, deterioro cognitivo... 
+Su déficit es un factor de riesgo de defectos del tubo neuronal","En pacientes con tratamiento con antifolato reductasa (metotrexate, trimetoprim…) y fenitoina… Mejor folato eritrocitario","Sospecha de déficit por anemia macrocítica
+Control suplementos embarazo","Hematologia, interna, primaria, ginecología…","tratamiento con antifolato reductasa (metotrexate, trimetoprim…) y fenitoina… "
+"FERRITINA","H 30-400 ng/mL
+M: 15-150 ng/mL","Suero","ng/mL","Proteína reserva hierro de fase aguda.","Estudio reservas de hierro
+Cribado de hemocromatosis y enfermedad hepática
+Valoración estado inflamatorio en infecciones respiratorias virales (gripe, covid…)",".","Como marcador de reservas de hierro no solicitar si no hay anemia. Estudio reservas de hierro
+Sospecha hemocromatosis por marcadores hepáticos elevados y sígnos de patología (piel bronce...)
+Marcador de gravedad en pacientes con infección respiratoria","Atención hospitalaria y primaria","."
+"VITAMINA B 12","187-1059 pg/mL","Suero","pg/mL","Coenzima derivada de un complejo de corrina con cobalto implicada junto al fólico la transferencia de unidad de carbono individual. Ej síntesis metionina y de ADN.
+Su déficit provoca trampa de folato por ser necesaria para la actividad de la metionina sintasa que transforma el metilTHF a THF.
+Vitamina con fuentes
+alimentarias como la fruta, las verduras verdes y de hoja, la levadura y la carne de órganos","Estudio déficit por sospecha en anemia macrocítica y desnutrición.
+Alteraciones gi y sospecha déficit de factor intrínseco",".","Sospecha de déficit por anemia macrocítica, déficit nutricional o alteraciones gastrointestinales relacionadas con su déficit (se absorbe casi solo en el Ileón)
+Embarazadas
+Tratamientos farmacológicos Ej. citostáticos
+Alteraciones SNC Ej. demencia","Atención hospitalaria y primaria","Técnica poco sensibilidad para deficiencia subclínica, debe valorarse con otros marcadores: fólico, ácido metilmalónico, homocisteína…"
+"PARATOHORMONA PTH","10-65 pg/mL","Suero","pg/mL","Péptido secretado por el paratiroides con bajadas de calcio libre. Estimula la movilización de calcio óseo, su reabsorción renal y menor reabsorción de fosfato y la síntesis de calcitriol en el túbulo proximal que aumenta absorción intestinal de calcio","Hiperparatiroidismo primario tumor paratiroideo y otros tipos de neoplasia o secundario: déficit de vitamina D.           Hipoparatioroidismo primario o secundario (hipercalcemia asociada a neoplasia o mieloma múltiple)","Se recomienda que en pacientes en tratamiento con biotina (>5mg/día), no se realice la extracción antes de 8 horas de la última administración. Evitar hemólisis","Alteraciones metabolismo fosfocálcico
+Dar de alta la  PTH y la traza 1042 siempre y cuando no la tenga hecha en  EL ÚLTIMO AÑO en servicio IA70 si calcio mayor o igual a 10.7 mg/dL y fosforo menor o igual 3.1mg/dL
+","Endocrino, reumatología, atención primaria","Tratamiento con altas dosis de biotina o persencia de anticuerpos anti-rutenio o anti-estreptavidina."
+"TESTOSTERONA","H 2,49-8,36 ng/mL
+M 1,93 a 7,40  ng/mL","Suero","ng/mL","Andrógeno secretado por células de Leydig del testículo y en ovarios regulado por LH, con retroacción negativa sobre hipófisis e hipotálamo. ","Estimula el desarrollo de los caracteres sexuales masculinos secundarios y contribuye al mantenimiento de la función prostática y de la vesícula seminal. En mujeres, virilización.",".","Diagnóstico en mujeres de : sínd. androgénico, ovarios poliquísticos,  tumores ováricos, suprarrenales, 
+hiperplasia SR e insuficiencia ovárica.
+En hombres por sospecha de producción reducida: hipogonadismo, tratamiento con estrógenos, Klinefelter...
+",".","."
+"VITAMINA D TOTAL","30-100 ng/mL","Suero","ng/mL",".",".",".","Alteraciones metabolismo fosfocálcico
+Raquitismo, osteomalacia, IRC estadíos 3 a 5, transplante renal, hiperparatiroidismo, IH, síndromes de malaabsorción, tratam crónicos Ej. corticoides, linfomas y enf granulomatosas
+Osteoporosis y tratamiento","Atención hospitalaria y primaria","Separar de la toma de suplementos de vitamina D"
+"PEPTIDO BETA AMILOIDE 1-42 LCR",".",".",".",".",".",".",".",".","."
+"PROTEINA TAU FOSFORILADA LCR",".",".",".",".",".",".",".",".","."
+"TEST DE EMBARAZO",".",".",".",".",".",".",".",".","."
+"EOSINOFILOS EN ORINA",".",".",".",".",".",".",".",".","."
+"ALFA 1 ANTITRIPSINA","de 90 a 200 mg/dL","Suero","mg/dL","antiproteasas que proteje los tejidos de la accíon lítica de las serinproteasas plasmáticas y agentes externos especialmente en el pulmón. Constituye la parte principal de la fracción electroforética de la a1-globulina. Es reactante de fase aguda.","Sospecha de deficiencia hereditaria de la alfa1-antitripsina en caso de hepatitis neonatal que puede progresar a cirrosis hepática progresiva en niños de corta edad o  de enfisema pulmonar grave precoz y enfermedades pulmonares, hepáticas, paniculitis…","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","Signos de patología pulmonar o hepática","Pediatría, neumología y medicina interna, atención primaria","Niveles altos de alfa1-antitripsina en inflamaciones (por ejemplo, infecciones y enfermedades reumáticas), necrosis tisular, malignidad y traumatismo, por ser esta proteína un reactante de fase aguda."
+"HAPTOGLOBINA (UDA3)","30-200 mg/dL","Suero","mg/dL","elevada afinidad por la hemoglobina evitando la pérdida de hierro y el daño renal
+libre, uniéndose en una relación molar 1:1. El complejo
+resultante de la unión es destruido por el Sistema Mononuclear
+Fagocítico del organismo. La hemoglobina así unida no se
+filtra por el glomérulo, dado el gran tamaño del complejo.","Estudio de anemia","""No se requiere ninguna preparación del paciente.
+TUBO GELOSA 10 ml TAPÓN AMARILLO 
+""","Sospecha de anemia hemolítica (hemograma, extensión de sangre periférica)","Estudio de anemia en atención hospitalaria","."
+"CRIOGLOBULINAS",".",".",".",".",".",".",".",".","."
+"PREALBUMINA","20 a 40 mg/dL","Suero","mg/dL","Proteína hepática que transporta vitamina A y hormonas tiroideas","Control nutricional en pacientes con nutrición parenteral","Suero","Estudio del estado nutricional
+Segumiento de la nutrición parenteral",".","."
+"AMONIACO","H 16-60 µmol/L M: 11-51 µmol/L","plasma EDTA","µmol/L","Producto del metabolismo nitrogenado","Su elevación indica fallo hepático y saturación del ciclo de la urea","Extraer en frío con anticoagulante EDTA. Centrifugar inmediatamente y mantener frío y estanco hasta análisi","Sospecha de encefalopatía hepática
+Sospecha de síndrome de Reye
+Sospecha de metabolopatía congénita, principalmente del ciclo de la urea.","Pediatría
+Digestivo
+Urgencias
+Interna","."
+"lactato",".",".",".",".",".",".",".",".","."
+"lactato esfuerzo",".",".",".",".",".",".",".",".","."
+"HEMOGLOBINA A1c (DCCT,%)",".",".",".",".",".",".",".",".","."
+"OSMOLALIDAD SERICA",".",".",".",".",".",".",".",".","."
+"HEMOGLOBINA A1c (IFCC)",".",".",".",".",".",".",".",".","."
+"SODIO ORINA",".","Orina sin aditivo","mmol/L",".","Aumenta por nefropatías, consumo excesivo de sal, diuréticos.
+Disminuye deshidratación, pérdida de líquidos,  insuficiencia renal, cirrosis
+La natriuria es inversamente proporcional a la actividad mineralocorticoide de la corteza SR.",".","Estudio equilibrio hidroelectrolítico, función renal y suprarenal","Urgencias
+Interna","Diuréticos"
+"POTASIO ORINA",".","Orina sin aditivo","mmol/L",".","Elevación en acidosis metabólica, trastornos alimentarios, necrosis tubular renal, hipomagnesemia, rabdomiolisis…
+Baja en diuréticos ahorradores de potaso, litio, IECAS, AINEs, BRA, BetaB ",".","Estudio función renal, alteraciones acido-base y del equilibrio hidroelectrolítico","Urgencias
+Interna","Hamaturia
+Menstruación"
+"CLORO ORINA",".","Orina sin aditivo","mmol/L",".",".",".",".",".","."
+"MICROALBUMINURIA","< 20 mg/L
+< 30 mg/24h","Orina sin aditivo","mg/L","La membrana glomerular filtra la orina impidiendo el paso de las proteínas plasmáticas en la orina primaria. La aparición de MA en orina permite detectar daño renal y es usado en el control de la diabetes.","Daño en la membrana glomerular","Primera orina de la mañana, Evitar menstruación.","Segumiento diabetes y enfermedades que causan daño renal",".","Sangre"
+"MICROALBUMINURIA NOCTURNA",".",".",".",".",".",".",".",".","."
+"GLUCOSA 24 HORAS CUALITATIVA",".",".",".",".",".",".",".",".","."
+"ACETONA 24 HORAS CuALITATIVA",".",".",".",".",".",".",".",".","."
+"INDICE PROTEINAS/CREATININA",".",".",".",".",".",".",".",".","."
+"GLUCOSURIA",".","Orina sin aditivo","mg/dL",".",".",".",".",".","."
+"UREA ORINA (Diluy 3)",".","Orina sin aditivo","mg/dL",".",".",".",".",".","."
+"CREATININA EN ORINA  (Diluy 3)","1000-2000 mg/d
+800-1800 mg/d","Orina sin aditivo","mg/dL",".",".",".",".",".","."
+"ACIDO URICO ORINA",".",".","mg/dL",".",".",".",".",".","."
+"AMILASA ORINA  (Diluy 3)","S/P: 28-100 U/L
+O espontanánea: <460
+O 24h: < 410
+(calculado)","Orina sin aditivo","U/L","Rompe enlaces 1,4alfa-glucosídicos
+de carbohidratos. Polímeros
+(amilosa,amilopectina,glu-
+cógeno),Isoenzimas P y S,","imp. valor diag.  y  control en pancreatitis aguda, colecistitis,  enf.glandulas salivales,IR,Macroamilasemia,otras…",".","Sospecha de pancreatitis. Detección de origen digestivo en líquidos serosos",".","Amilasa salival"
+"CALCIO ORINA",".","Orina sin aditivo","mg/dL",".",".",".",".",".","."
+"FOSFORO ORINA",".",".","mg/dL","La 25-hidroxiVitD o calcidiol se produce en el hígado a partir del colecalciferol D3 y el ergocalciferol D2 producidos en animales y plantas desde el colesterol con radiación UV.
+La 25OH VitD es poco activa, pero es el precursor de la 1,25 hidroxiVitD o calcitriol en el riñón","Concentraciones normales 30 a 100ng/mL (SEEN) Hasta 10 déficit moderado.
+Déficit por baja exposición solar o baja absorción intestinal. Aumenta el riesgo de osteoporosis, enferm autoinmunes, CVs y ciertas neoplasias.
+Elevada con calcio alto riesgo de calcificación
+ ","Considerar suplementos","Alteraciones metabolismo Ca/P/Mg  y/o PTH. Descartar hipoMg cuando hay hipoCa resistente a VitD y PTH
+Seguimiento enfermedades paratiroideas porque la PTH es fundamental en su activación
+Pacientes mayores de 65 años que absorben y producen menos vit D
+Obesidad
+Medicación como la fenitoína que interfieren en su producción hepática
+Osteoporosis/raquitismo/osteomalacia
+Transtornos digestivos que alteran la absorción grasas, by-pass gástrico...",".","."
+"GASOMETRIA NEONATO",".",".",".",".",".",".",".",".","."
+"DIURESIS",".",".",".",".",".",".",".",".","."
+"DENSIDAD TIRA ORINA",".",".",".",".",".",".",".",".","."
+"pH TIRA ORINA",".",".",".",".",".",".",".",".","."
+"LEUCOCITOS TIRA ORINA",".",".",".",".",".",".",".",".","."
+"NITRITOS TIRA ORINA",".",".",".",".",".",".",".",".","."
+"PROTEINAS TIRA ORINA",".",".",".",".",".",".",".",".","."
+"GLUCOSA TIRA ORINA",".",".",".",".",".",".",".",".","."
+"ACETONA TIRA ORINA",".",".",".",".",".",".",".",".","."
+"UROBILINOGENO TIRA ORINA",".",".",".",".",".",".",".",".","."
+"BILIRRUBINA TIRA ORINA",".",".",".",".",".",".",".",".","."
+"SEDIMENTO Y ANORMALES",".",".",".",".",".",".",".",".","."
+"Valoración Servicio Farmacia",".",".",".",".",".",".",".",".","."
+"ADN VHB VIR HEPATITIS B",".",".",".",".",".",".",".",".","."
+"INSULINA    BASAL","3-25 µUI/mL","Suero",".","Hormona pancreática esencial para la toma de glucosa por las células. Su falta o resistencia produce hiperglucemia (diabetes)","Estudio del metabolismo de la glucosa","Ayunas","Estudio de alteraciones de glucemia.
+Seguimiento de la resistencia en diabetes tipo II
+Descartar insulinoma en caso sospecha
+ ","Endocrino, pediatria","Las propias de las prueba de inmunologia"
+"ISOENZIMAS FOSFATASA ALCALI",".",".",".",".",".",".",".",".","."
+"PCR SARS-CoV2 Ex. NF",".",".",".",".",".",".",".",".","."
+"COVID-19 (Test rápido)",".",".",".",".",".",".",".",".","."
+"COVID-19 (Test rápido) Urg",".",".",".",".",".",".",".",".","."
+"DETECCIÓN ANTÍGENO EX NF",".",".",".",".",".",".",".",".","."
+"Detección Gripe AB Aspirado NF",".",".",".",".",".",".",".",".","."
+"Detección Gripe AB Frotis NF",".",".",".",".",".",".",".",".","."
+"Detección VRS en Frotis NF",".",".",".",".",".",".",".",".","."
+"Detección VRS en Aspirado NF",".",".",".",".",".",".",".",".","."
+"Panel Respiratorio Múltiple Aspirado",".",".",".",".",".",".",".",".","."
+"Antígeno Legionella en orina",".",".",".",".",".",".",".",".","."
+"T_SCHU",".",".",".",".",".",".",".",".","."
+"T_LEC",".",".",".",".",".",".",".",".","."
+"T_SDHO",".",".",".",".",".",".",".",".","."
+"T_Coag",".",".",".",".",".",".",".",".","."
+"T_Otro",".",".",".",".",".",".",".",".","."
+"T_Ased",".",".",".",".",".",".",".",".","."
+"T_BqOr",".",".",".",".",".",".",".",".","."
+"T_Hemo",".",".",".",".",".",".",".",".","."
+"T_Cesp",".",".",".",".",".",".",".",".","."
+"TIEMPO PARCIAL TROMBOPL. ACT.",".",".",".",".",".",".",".",".","."
+"ACTIVIDAD DE PROTROMBINA",".",".",".",".",".",".",".",".","."
+"ERITROCITOS",".",".",".",".",".",".",".",".","."
+"EXTENSION SANGRE PERIFERICA",".",".",".",".",".",".",".",".","."
+"RETICULOCITOS RECUENTO",".",".",".",".",".",".",".",".","."
+"VELOCIDAD DE SEDIMENTACION GLO",".",".",".",".",".",".",".",".","."
+"DIMERO D",".",".",".",".",".",".",".",".","."
+"DIMERO D",".",".",".",".",".",".",".",".","."
+"ANTIFACTOR X ACTIVADO (HBPM)",".",".",".",".",".",".",".",".","."
+"FIBRINOGENO DE CLAUS",".",".",".",".",".",".",".",".","."
+"TIEMPO DE SANGRIA (IVY)",".",".",".",".",".",".",".",".","."
+"TIEMPO KLEIHAUER",".",".",".",".",".",".",".",".","."
+"TIEMPO DE REPTILASE",".",".",".",".",".",".",".",".","."
+"TIEMPO DE TROMBINA",".",".",".",".",".",".",".",".","."
+"GRUPO SANGUINEO",".",".",".",".",".",".",".",".","."
+"Rh(D)",".",".",".",".",".",".",".",".","."
+"TEST DE ANTIGLOBULINA DIRECTO",".",".",".",".",".",".",".",".","."
+"COOMBS INDIRECTO",".",".",".",".",".",".",".",".","."
+"CRIOAGLUTININAS",".",".",".",".",".",".",".",".","."
+"INVESTIGACION  Ac  IRREGULARES (TEST ANTIGLOBULINA INDIRECTO)",".",".",".",".",".",".",".",".","."
+"TROPONINA I","P99% 11 ng/L","Suero o plasma heparina","ng/L","Marcador de daño tejido cardiaco","Diagnóstico SCA
+Ver protocolo de la GAI de Almansa","Evitar hemólisis","Sospecha y seguimiento SCA","Urgencias y hospitalización
+Cardiología","."
+"TN_ION",".",".",".",".",".",".",".",".","."
+"PROCALCITONINA","<0,077 ng/mL
+Hasta 0,5 ng/mL infección local
+Hasta 0,5 y 2,0 ng/mL infección sistémica
+Desde 2,0 a 10,0 alto riesgo de sepsis.
+>10,0 indicativo de shock séptico","Suero o plasma heparina","ng/mL","Marcador de sepsis","Indicador de probabilidad de sepsis según valor","Evitar hemólisis","Sospecha de  sepsis
+Aplicar protocolo quickSOFA y SOFA previamente","Urgencias y hospitalización","."
+"NT-proBNP","300 pg/ml en contexto agudo y 125 pg/mL fuera de ese contexto. Ajustado por edad. ","Suero o plasma heparina","pg/mL","péptidos natriuréticos  del sistema endocrino liberados por la tensión del véntrículo izquierdo produciendo vasodilatación, natriuresis y se opone a la actividad del eje renina-angiotensina-aldosterona ","Ayuda a diagnóstico de insuficiencia cardiaca, confirmada por ecodopler","Las comunes","Escala NYHA entre 3 y 7 fase aguda
+Según protocolo área de Albacete (en primaria no esta filtrado por datos a rellenar en Turriano)","Atención primaria y espacializada bajo protocolo","."
+"ALCOHOL ETILICO",".",".",".",".",".",".",".",".","."
+"BENZODIACEPINAS",".",".",".",".",".",".",".",".","."
+"COCAINA",".",".",".",".",".",".",".",".","."
+"OPIACEOS",".",".",".",".",".",".",".",".","."
+"THC UCA",".",".",".",".",".",".",".",".","."
+"ANFETAMINAS UCA",".",".",".",".",".",".",".",".","."
+"METADONA UCA",".",".",".",".",".",".",".",".","."
+"ETG UCA",".",".",".",".",".",".",".",".","."
+"BUPRENORFINA ORINA UCA",".",".",".",".",".",".",".",".","."
+"Detección Gripe AB Frotis NF",".",".",".",".",".",".",".",".","."
+"Detección VRS en Frotis NF",".",".",".",".",".",".",".",".","."
+"PCRLCR",".",".",".",".",".",".",".",".","."
+"BILIRRUBINA NEONATOS",".",".",".",".",".",".",".",".","."
+"pH",".",".",".",".",".",".",".",".","."
+"PCO2",".",".",".",".",".",".",".",".","."
+"PO2",".",".",".",".",".",".",".",".","."
+"HbTUR",".",".",".",".",".",".",".",".","."
+"HbO2UR",".",".",".",".",".",".",".",".","."
+"HbCOUR",".",".",".",".",".",".",".",".","."
+"HbMetU",".",".",".",".",".",".",".",".","."
+"HbRUR",".",".",".",".",".",".",".",".","."
+"HCO3UR",".",".",".",".",".",".",".",".","."
+"SBEUR",".",".",".",".",".",".",".",".","."
+"SO2UR",".",".",".",".",".",".",".",".","."
+"na",".",".",".",".",".",".",".",".","."
+"K+","3,5-5,1 (hasta 0,7 menor en plasma)
+3,5 a 6 neonatos<3 dias",".",".",".",".",".",".",".","."
+"cl",".",".",".",".",".",".",".",".","."
+"CA i",".",".",".",".",".",".",".",".","."
+"CA COR",".",".",".",".",".",".",".",".","."
+"Bicarbonato en suero/plasma","22-29 mmol/L","Suero",".","Anión del sistema tampón CO2/bicarbonato regulador del pH","Estado ácido base","Evitar intercambio gaseoso con la atmósfera prolongado","Estudio acido-base
+Estudio de la función renal
+","AE y
+Urgencias","Tubo abierto"
+"PH INTRAPARTO",".",".",".",".",".",".",".",".","."
+"GASOMETRIA ARTERIAL",".",".",".",".",".",".",".",".","."
+"GASOMETRIA VENOSA",".",".",".",".",".",".",".",".","."
+"GASOMETRIA CAPILAR",".",".",".",".",".",".",".",".","."
+"A gap",".",".",".",".",".",".",".",".","."
+"Anion gap (K+)",".",".",".",".",".",".",".",".","."
+"TEST EMBARAZO",".",".",".",".",".",".",".",".","."
+"LIQUIDO PERITONEAL (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"LIQUIDO PLEURAL (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"LIQUIDO ASCITICO (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"LIQUIDO SINOVIAL (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"LIQUIDO CEFALORRAQUIDEO (URG)",".",".",".",".",".",".",".",".","."
+"LIQUIDO PERITONEAL (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"LIQUIDO PERITONEAL (URGENCIAS)",".",".",".",".",".",".",".",".","."
+"pH LIQUIDO BIOLOGICO",".",".",".",".",".",".",".",".","."
+"GLUCOSA-LIQUIDO",".",".",".",".",".",".",".",".","."
+"GLUCOSA EN LCR","mg/dL",".",".","La glucorraquia suele estar entre un 60-70% más baja que la sérica","Su bajada brusca se relaciona con meningitis bacteriana, fúngica o tumores","Recoger gota a gota en al menos 3 tubos rotulados para conocer si hay contaminación sanguínea","Sospecha de meningitis
+Control de linfomas/leucemias
+Control de enfermedades autoinmunes SNC (Sínd. Gillain Barré)
+Estudio de enfermedades con deterioro cognitivo
+","Urgencias
+Hospitalización
+Oncología
+Neurología
+","Presencia de sangre"
+"GLUCOSA EN LCR",".",".",".",".",".",".",".",".","."
+"GLUg",".",".",".",".",".",".",".",".","."
+"LACg",".",".",".",".",".",".",".",".","."
+"AMONIACO URGENCIA",".",".",".",".",".",".",".",".","."

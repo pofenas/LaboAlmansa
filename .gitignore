@@ -1,0 +1,39 @@
+# Archivos de entorno (seguridad)
+.env
+.vagrant
+Vagrantfile
+
+# Dependencias de Composer (la carpeta más pesada)
+/vendor/
+composer.lock
+
+# Archivos temporales y de escritura de CodeIgniter (logs, caché, sesiones)
+/writable/cache/*
+!/writable/cache/index.html
+/writable/logs/*
+!/writable/logs/index.html
+/writable/session/*
+!/writable/session/index.html
+/writable/uploads/*
+!/writable/uploads/index.html
+/writable/debugbar/*
+!/writable/debugbar/index.html
+/writable/**/*.db
+/writable/**/*.sqlite
+php_errors.log
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+*~
+
+# Editores e IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Pruebas
+/tests/coverage*
+/phpunit
+/phpunit.xml
