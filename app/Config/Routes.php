@@ -86,3 +86,6 @@ $routes->get('fer-equipos/(:num)', 'Fer::index/$1');
 // El formulario sigue enviando el guardado a fer/<id>.
 $routes->get('fer/(:num)', 'Fer::index/$1');
 $routes->post('fer/(:num)', 'Fer::guardar/$1');
+$routes->get('mi-perfil', 'MiPerfil::index');
+$routes->get('mi-perfil/alias', 'MiPerfil::comprobarAlias');
+$routes->post('mi-perfil/guardar', 'MiPerfil::guardar');

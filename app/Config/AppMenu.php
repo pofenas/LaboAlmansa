@@ -31,6 +31,7 @@ class AppMenu extends BaseConfig
         [
             'Utilidades',
             [
+                ['Mi cuenta',               '/mi-perfil',               'tel'],
                 ['Préstamos',               '/prestamos',               'tel'],
                 ['Incidencias pedidos',     '/incidenciasPedidos',      'tel'],
                 ['Incidencias materiales',  '/incidenciasMateriales',   'tel'],
