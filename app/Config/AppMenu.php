@@ -31,28 +31,31 @@ class AppMenu extends BaseConfig
         [
             'Utilidades',
             [
-                ['Préstamos',               '/prestamos',               'prestamo'],
-                ['Incidencias pedidos',     '/incidenciasPedidos',      ''],
-                ['Incidencias materiales',  '/incidenciasMateriales',   ''],
-                ['Incidencias equipos',     '/incidenciasEquipos',       ''],
+                ['Préstamos',               '/prestamos',               'tel'],
+                ['Incidencias pedidos',     '/incidenciasPedidos',      'tel'],
+                ['Incidencias materiales',  '/incidenciasMateriales',   'tel'],
+                ['Incidencias equipos',     '/incidenciasEquipos',      'tel'],
+               
             ]
         ],
         // Grupo: Grupo2
         [
-            'Tablas',
+            'Configuración',
             [
-                ['Hospitales (Présamos)',           '/hospitales',  'administrar'],
-                ['Pruebas',                         '/pruebas',     'administrar'],
-                ['Proveedores',                     '/proveedores', 'administrar'],
-                ['Equipos',                         '/equipos',     'administrar'],
-                ['Tipos de incidencia en equipos',  '/tie',         'administrar'],
+                ['Hospitales',                      '/hospitales',  'configurar'],
+                ['Pruebas',                         '/pruebas',     'configurar'],
+                ['Proveedores',                     '/proveedores', 'configurar'],
+                ['Equipos',                         '/equipos',     'configurar'],
+                ['Tipos de incidencia en equipos',  '/tie',         'configurar'],
+                ['Usuarios',                        'usuarios',     'configurar'],
+                ['QR inc. equipos',                 '/fer-equipos', 'configurar'],
             ]
         ],
         // Grupo: Administración
         [
             'Administración',
             [
-                ['Usuarios',   'usuarios',    'administrar'],
+                
                 ['Grupos',     'grupos',      'administrar'],
                 ['Permisos',   'permisos',    'administrar'],
             ]

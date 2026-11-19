@@ -53,29 +53,138 @@ class Usuario
      * Procesa el formulario de login o muestra la vista.
      * Si las credenciales son correctas guarda idUser en sesión.
      */
+    /**
+     * Muestra el login o procesa las credenciales.
+     *
+     * Recuerda el destino solicitado mediante GET para volver
+     * a él después de una autenticación correcta.
+     */
     protected function login(): void
         {
+            helper('url');
+
             $request = service('request');
-                if (strtolower($request->getMethod()) === 'post')
+            $method  = strtolower($request->getMethod());
+
+            /*
+            * Recordar una página solicitada.
+            *
+            * No se guardan peticiones POST ni se utiliza
+            * una URL de retorno enviada por el formulario.
+            */
+            if ($method === 'get')
+            {
+                $ruta = trim(uri_string(), '/');
+
+                /*
+                * Solo admitimos rutas internas sencillas.
+                * La raíz no sobrescribe un destino pendiente.
+                */
+                if (
+                    $ruta !== ''
+                    && preg_match('~\A[a-zA-Z0-9_/-]+\z~', $ruta) === 1
+                )
                 {
-                    $alias    = trim($request->getPost('alias')    ?? '');
-                    $password = trim($request->getPost('password') ?? '');
+                    $this->session->set('login_destino', [
+                        'ruta'  => $ruta,
+                        'query' => $request->getUri()->getQuery(),
+                    ]);
+                }
+            }
+
+            $error = null;
+
+            if ($method === 'post')
+            {
+                $aliasPost    = $request->getPost('alias');
+                $passwordPost = $request->getPost('password');
+
+                /*
+                * Solo interpretar como intento de login un POST
+                * que contenga los dos campos de credenciales.
+                */
+                if (is_string($aliasPost) && is_string($passwordPost))
+                {
+                    $alias    = trim($aliasPost);
+                    $password = trim($passwordPost);
 
                     $model    = new UsuarioModel();
-                    $userData = $model->validarCredenciales($alias, $password);
-                    
+                    $userData = $model->validarCredenciales(
+                        $alias,
+                        $password
+                    );
 
                     if ($userData)
                     {
-                        $this->session->set('idUser', $userData['idUser']);
-                        $this->cargarDesdeDB((int) $userData['idUser']);
-                        return;
+                        $destino = $this->session->get('login_destino');
+
+                        // Renovar el identificador tras autenticar.
+                        $this->session->regenerate(true);
+
+                        $this->session->set(
+                            'idUser',
+                            (int) $userData['idUser']
+                        );
+
+                        // El destino se consume una única vez.
+                        $this->session->remove('login_destino');
+
+                        /*
+                        * Sin destino pendiente, mantenemos
+                        * la entrada habitual por la raíz.
+                        */
+                        $url = base_url();
+
+                        if (
+                            is_array($destino)
+                            && isset($destino['ruta'])
+                            && is_string($destino['ruta'])
+                            && preg_match(
+                                '~\A[a-zA-Z0-9_/-]+\z~',
+                                $destino['ruta']
+                            ) === 1
+                        )
+                        {
+                            $url = site_url($destino['ruta']);
+
+                            $query = $destino['query'] ?? '';
+
+                            if (
+                                is_string($query)
+                                && $query !== ''
+                                && preg_match(
+                                    '/[\x00-\x1F\x7F]/',
+                                    $query
+                                ) === 0
+                            )
+                            {
+                                $url .= '?' . $query;
+                            }
+                        }
+
+                        /*
+                        * Estamos dentro de una biblioteca ejecutada
+                        * desde el constructor: enviar la respuesta
+                        * y detener esta petición.
+                        *
+                        * La siguiente petición cargará el usuario
+                        * y comprobará los permisos normalmente.
+                        */
+                        redirect()
+                            ->to($url, 303)
+                            ->send();
+
+                        exit;
                     }
 
-                    $this->session->setFlashdata('login_error', 'Usuario o contraseña incorrectos.');
+                    $error = 'Usuario o contraseña incorrectos.';
                 }
+            }
 
-            echo view('auth/login', ['error' => session('login_error')]);
+            echo view('auth/login', [
+                'error' => $error,
+            ]);
+
             exit;
         }
 

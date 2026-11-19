@@ -76,3 +76,13 @@ $routes->post(
     'incidenciasEquipos/delete',
     'IncidenciasEquipos::delete'
 );
+// Pantalla de escritorio con todos los QR.
+$routes->get('fer-equipos', 'FerEquipos::index');
+
+// Dirección incluida en el QR: abre el formulario móvil.
+$routes->get('fer-equipos/(:num)', 'Fer::index/$1');
+
+// Rutas actuales de FER.
+// El formulario sigue enviando el guardado a fer/<id>.
+$routes->get('fer/(:num)', 'Fer::index/$1');
+$routes->post('fer/(:num)', 'Fer::guardar/$1');
